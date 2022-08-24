@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on developing My own website.
 - 🌱 I’m currently learning Nextjs and Tailwindcss.
-- ⚡ Fun fact: I like programming, art, finance and some new media.
+- ⚡ Fun fact: I like programming, art, finance and new media.
 
 <!-- 
 - 👯 I’m looking to collaborate on ...
@@ -13,7 +13,7 @@
 - 📫 How to reach me: 
 😄 Pronouns: ...
   -->
-I started programming from hardware development when I was 13，now I can use raspberry pi , arduino , stm32  and esp32 to do some interesting things. 
+I started programming from hardware development when I was 13.
 
 
 
